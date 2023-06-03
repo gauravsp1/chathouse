@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.js": "/chathouse/static/js/main.06c52bdb.chunk.js",
-    "main.js.map": "/chathouse/static/js/main.06c52bdb.chunk.js.map",
-    "runtime-main.js": "/chathouse/static/js/runtime-main.715743f2.js",
-    "runtime-main.js.map": "/chathouse/static/js/runtime-main.715743f2.js.map",
-    "static/css/2.15f8111a.chunk.css": "/chathouse/static/css/2.15f8111a.chunk.css",
-    "static/js/2.b8cc9335.chunk.js": "/chathouse/static/js/2.b8cc9335.chunk.js",
-    "static/js/2.b8cc9335.chunk.js.map": "/chathouse/static/js/2.b8cc9335.chunk.js.map",
-    "index.html": "/chathouse/index.html",
-    "static/css/2.15f8111a.chunk.css.map": "/chathouse/static/css/2.15f8111a.chunk.css.map",
-    "static/js/2.b8cc9335.chunk.js.LICENSE.txt": "/chathouse/static/js/2.b8cc9335.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.491bfa39.chunk.css",
+    "main.js": "/static/js/main.76899ec1.chunk.js",
+    "main.js.map": "/static/js/main.76899ec1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a2b74b8c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a2b74b8c.js.map",
+    "static/css/2.15f8111a.chunk.css": "/static/css/2.15f8111a.chunk.css",
+    "static/js/2.52d1f513.chunk.js": "/static/js/2.52d1f513.chunk.js",
+    "static/js/2.52d1f513.chunk.js.map": "/static/js/2.52d1f513.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.15f8111a.chunk.css.map": "/static/css/2.15f8111a.chunk.css.map",
+    "static/css/main.491bfa39.chunk.css.map": "/static/css/main.491bfa39.chunk.css.map",
+    "static/js/2.52d1f513.chunk.js.LICENSE.txt": "/static/js/2.52d1f513.chunk.js.LICENSE.txt",
+    "static/media/E2.f0682dd5.png": "/static/media/E2.f0682dd5.png",
+    "static/media/Logo.89e76fc2.jpg": "/static/media/Logo.89e76fc2.jpg",
+    "static/media/NqJ0OAm-deadpool-wallpaper-hd.33521f3d.jpg": "/static/media/NqJ0OAm-deadpool-wallpaper-hd.33521f3d.jpg",
+    "static/media/first.cee3f197.jpg": "/static/media/first.cee3f197.jpg",
+    "static/media/second.e9394508.jpeg": "/static/media/second.e9394508.jpeg",
+    "static/media/ugTtPzn-deadpool-wallpaper-hd.c3a6afe8.jpg": "/static/media/ugTtPzn-deadpool-wallpaper-hd.c3a6afe8.jpg",
+    "static/media/uwp314735.d57a900f.jpeg": "/static/media/uwp314735.d57a900f.jpeg",
+    "static/media/uwp332474.a4f583cb.jpeg": "/static/media/uwp332474.a4f583cb.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.715743f2.js",
+    "static/js/runtime-main.a2b74b8c.js",
     "static/css/2.15f8111a.chunk.css",
-    "static/js/2.b8cc9335.chunk.js",
-    "static/js/main.06c52bdb.chunk.js"
+    "static/js/2.52d1f513.chunk.js",
+    "static/css/main.491bfa39.chunk.css",
+    "static/js/main.76899ec1.chunk.js"
   ]
 }
